@@ -10,7 +10,7 @@
 	<a href="step2-1.jsp">step2-1로 이동</a> <br>
 	<a href="step2-3.jsp">step2-3으로 이동</a>
 	<hr>
-	1. 스클립틀릿 방식으로 파라미터를 전달받음 <br>
+	1. 스크립틀릿 방식으로 파라미터를 전달받음 <br>
 	<%=request.getParameter("name") %> <br>
 	<%=request.getParameter("address") %> <br>
 	<br><br>
